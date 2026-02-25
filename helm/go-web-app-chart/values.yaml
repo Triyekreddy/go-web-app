@@ -8,7 +8,7 @@ image:
   repository: triyekred/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "22383083185"
+  tag: "22389252297"
 
 ingress:
   enabled: false
